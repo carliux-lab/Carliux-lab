@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, Yo soy Carla con C</h1>
+<h3 align="center">SOY DE MEXICO, HIDALGO</h3>
 
-<!--
-**carliux-lab/Carliux-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📔 Actualmente estudio en **universidad tecnologica de tulancingo**
 
-Here are some ideas to get you started:
+- 🎶me encanta la musica **De todo un poco**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🚒Estoy estudiando actualmente una **Ingeniería**
+
+- 📫 Como contactarme **esmeraldacarla50@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
